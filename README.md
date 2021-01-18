@@ -1,16 +1,36 @@
-# youtube
+<h1 align="center">
+<br>
+Flutter Youtube Clone
+</h1>
 
-A new Flutter application.
+<p align="center">Youtube app clone made using flutter and YouTube Data API v3 📱</p>
 
-## Getting Started
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+ <br>
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Preview
+![1](https://user-images.githubusercontent.com/65514572/104371816-99946e00-54fe-11eb-9106-47bb4e180c0e.jpg) ![2](https://user-images.githubusercontent.com/65514572/104371844-9bf6c800-54fe-11eb-9099-ea198a0c88f6.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
+[//]: # (Add the features of your project here:)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Dart & Flutter** — Tools used to develop the app.
+- **Android Studio** — IDE used to develop the project.
+- **YouTube Data API v3 ** - API used to get data from  Youtube
+
+
+## Getting started
+
+- Donwload this repository
+- Create a project, add YouTube Data API v3 and generate a token on https://console.developers.google.com
+- Open the project on Android Studio or Visual Code and modify the Api.dart links as you want
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
