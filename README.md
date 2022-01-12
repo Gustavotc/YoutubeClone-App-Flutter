@@ -21,7 +21,7 @@ Flutter Youtube Clone
 
 - **Dart & Flutter** — Tools used to develop the app.
 - **Android Studio** — IDE used to develop the project.
-- **YouTube Data API v3 ** - API used to get data from  Youtube
+- **YouTube Data API v3** - API used to get data from  Youtube
 
 
 ## Getting started
